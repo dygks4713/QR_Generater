@@ -1,4 +1,4 @@
-# QR 코드 생성기
+# QR Code Generater
 
 - 이 프로젝트는 명함 이미지 파일에 QR 코드를 생성하고 워터마크로 추가하는 기능 제공 
 - 사용자는 원본 명함 이미지를 업로드하고, QR 생성하면 생성된 QR 코드와 워터마크가 포함된 이미지 확인 가능 
@@ -16,8 +16,9 @@
 
 ------------
 
-# 필요한 라이브러리 설치
-## qrcode, pill, flask, pillow, requests 설치
+# Install and Build
+    git clone https://github.com/dygks4713/QR_Generater.git
+## Python 라이브러리 설치
     pip install -r requirements.txt
 
 ------------
